@@ -1,0 +1,2 @@
+* Django prototypes and examples
+This repo is what i use to test out differnent django apps
